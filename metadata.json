@@ -1,0 +1,6 @@
+{
+  "name": "Fulô de Mandacaru Bistrô",
+  "description": "Bistrô premium especializado em comida nordestina nativa em Presidente Prudente - SP. Aprecie pratos arretados de bom com atendimento exclusivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
